@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": ""
+  },
+  {
+    "role": "assistant",
+    "content": "Okay, I'm here to guide you through a discovery process based on the Enneagram Cards book.\n\nI'll guide you through 15-20 introspective questions, one at a time. Rate each from 1 (Not Me) to 5 (Exactly Me), and share any personal reflections if you wish.\n\nHere is the first question:\n\nWhen faced with a new situation or decision, how much do you tend to feel a primary impulse to withdraw inward, conserve your energy, and ensure your own resources or safety are protected first?\n\n1 = Not me at all, 5 = Exactly me\n\nYou can also share a personal example if you'd like."
+  },
+  {
+    "role": "user",
+    "content": "4"
+  },
+  {
+    "role": "assistant",
+    "content": "Okay, thank you for that score. That gives me some insight into your initial orientation.\n\nHere is the second question:\n\nHow much do you find yourself concerned with how others perceive you, often adapting your behavior to be liked or accepted?\n\n1 = Not me at all, 5 = Exactly me\n\nYou can also share a personal example if you'd like."
+  }
+]

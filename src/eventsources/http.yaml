@@ -1,0 +1,6 @@
+type: express  
+port: 3000     
+
+docs:
+  endpoint: /api-docs   # the url on which the service will start
+  

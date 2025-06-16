@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": ""
+  },
+  {
+    "role": "assistant",
+    "content": "Okay, I'll guide you through 15-20 introspective questions, one at a time. Rate each from 1 (Not Me) to 5 (Exactly Me), and share any personal reflections if you wish.\n\nHere is the first question:\n\nHow important is it to you that things are orderly, correct, or done the 'right' way?\n\n1 = Not me at all, 5 = Exactly me\n\nYou can also share a specific example from your life if you'd like."
+  },
+  {
+    "role": "user",
+    "content": ""
+  },
+  {
+    "role": "assistant",
+    "content": "Thank you for your response. That helps me understand your perspective on order and correctness.\n\nHere is the next question:\n\nDo you tend to be very critical of yourself, constantly evaluating if you've met your own high standards?\n\n1 = Not me at all, 5 = Exactly me\n\nYou can also share a specific example from your life if you'd like."
+  }
+]
