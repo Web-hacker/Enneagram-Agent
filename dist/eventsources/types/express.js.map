@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/eventsources/types/express.ts"],"sourcesContent":["import { EventSource } from \"@godspeedsystems/plugins-express-as-http\";\r\n\r\nexport default EventSource;\r\n"],"names":["EventSource"],"mappings":";;;;+BAEA;;;eAAA;;;sCAF4B;MAE5B,WAAeA,iCAAW"}

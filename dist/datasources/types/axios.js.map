@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/datasources/types/axios.ts"],"sourcesContent":["import { DataSource } from \"@godspeedsystems/plugins-axios-as-datasource\";\r\nexport default DataSource;\r\n"],"names":["DataSource"],"mappings":";;;;+BACA;;;eAAA;;;0CAD2B;MAC3B,WAAeA,oCAAU"}
